@@ -4,7 +4,7 @@ var assert = require('assert')
 var tls = require('tls')
 var net = require('net')
 var https = require('https')
-var transport = require('spdy-transport')
+var transport = require('donejs-spdy-transport')
 var util = require('util')
 
 var fixtures = require('./fixtures')
