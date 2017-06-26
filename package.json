@@ -1,5 +1,5 @@
 {
-  "name": "spdy",
+  "name": "donejs-spdy",
   "version": "3.4.7",
   "description": "Implementation of the SPDY protocol on node.js.",
   "license": "MIT",
